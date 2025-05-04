@@ -6,10 +6,8 @@ members:
 - 하성용
 ---
 
-<div align="center">
 ## 작품명 : The Mute Brush
 더이상 기억이라는 그림을 그려내지 못하는 치매 환자를 The Mute Brush 즉, 말하지 못하는 붓이라는 표현에 비유했습니다.
-</div>
 
 ## 🧠 작품 개요
 <p style="text-indent: 1em;">
