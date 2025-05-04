@@ -36,7 +36,7 @@ The Mute Brush는 기억을 잃어가는 화가의 시선을 통해 치매의 �
 
 
 
-## 🎮 플레이
+## 🎮 인게임 스크린샷
 ![KakaoTalk_20250430_230502336](https://github.com/user-attachments/assets/c3e93b8f-339e-4a60-8d16-c10dacda7cfb)
 ![KakaoTalk_20250430_230514442](https://github.com/user-attachments/assets/41b7ee46-688e-4cb9-9d97-d069a70ee432)
 ![KakaoTalk_20250430_230532391](https://github.com/user-attachments/assets/c0e241a0-9868-4e8b-bcc4-d193ef009327)
