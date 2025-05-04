@@ -9,6 +9,7 @@ members:
 ## 작품명 : The Mute Brush
 
 더이상 기억이라는 그림을 그려내지 못하는 치매 환자를 The Mute Brush 즉, 말하지 못하는 붓이라는 표현에 비유했습니다.<br>
+![themutebrushlogo](https://github.com/user-attachments/assets/516690ce-d222-419e-8baf-3e0e3ffcf03c)
 <br>
 <br>
 
